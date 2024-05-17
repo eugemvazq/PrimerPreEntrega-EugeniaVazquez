@@ -1,0 +1,8 @@
+.navbar-magenta {
+    background-color: rgb(167, 7, 167);
+}
+
+.navbar-magenta .navbar-brand,
+.navbar-magenta .nav-link {
+    color: rgba(255, 255, 255, 0.829); /* Ajusta el color del texto si es necesario */
+}
